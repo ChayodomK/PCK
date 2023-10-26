@@ -1,5 +1,5 @@
 # PCK
-This is a test program for DES424 (your student ID).
+This is a test program for DES424 (6322770890).
 ### Table of contents
 * [Required Software](#required-software)
 * [Installation](#installation)
